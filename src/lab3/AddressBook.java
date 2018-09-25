@@ -22,7 +22,7 @@ public class AddressBook {
 			AddressBook buddyBook = new AddressBook();
 			buddyBook.addBuddy(aBuddy);
 			buddyBook.removeBuddy(0);
-		 
+		    System.out.println("ddd");
 		}
 	}
 
